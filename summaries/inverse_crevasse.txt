@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------
+# Analysis logistic regression ('crevasse' threshold) [non-glacier are excluded]
+# ------------------------------------------------------------------------------
+Threshold: 0.2457655 
+Coefficients:
+Intercept (a): -4.22003 
+Coefficient for crevasse (b): 0.6197409 
+Crevasse yields 'caution = 1' at: 5

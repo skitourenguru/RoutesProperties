@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------
+# Analysis logistic regression ('fd_risk' threshold) [streets are excluded]
+# ------------------------------------------------------------------------------
+Threshold: 0.1889648 
+Coefficients:
+Intercept (a): -4.34614 
+Coefficient for fd_risk (b): 0.00267818 
+fd_risk yields 'caution = 1' at: 1078.863

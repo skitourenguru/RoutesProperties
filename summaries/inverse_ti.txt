@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------
+# Analysis logistic regression ('ti' threshold) [streets are excluded]
+# ------------------------------------------------------------------------------
+Threshold: 0.3050537 
+Coefficients:
+Intercept (a): -5.509207 
+Coefficient for ti (b): 7.075324 
+ti yields 'caution = 1' at: 0.662282 

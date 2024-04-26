@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------
+# Analysis logistic regression ('slope' threshold) [streets are excluded]
+# ------------------------------------------------------------------------------
+Threshold: 0.1782836 
+Coefficients:
+Intercept (a): -5.320427 
+Coefficient for slope (b): 0.1140664 
+Slope yields 'caution = 1' at: 33.24738 

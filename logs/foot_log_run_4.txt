@@ -1,0 +1,85 @@
+"C:\Users\claud\Skitourenguru-main - PyCharm\venv\Scripts\python.exe" "C:\Users\claud\Skitourenguru-main - PyCharm\venv\main.py" 
+
+====================================================================================================
+                                               START                                                
+====================================================================================================
+Running main function...
+Target variable is 'foot'
+Choosen method is imbalanced
+Session name is 'Run 4 - imbalanced, with planc7, with street-filter'
+Dropped columns are ['country', 'fd', 'glacier', 'id', 'lake', 'ski', 'snowshoe']
+ti_filter is set to False
+Street filter is set to True
+Tunnel filter is set to False
+Standard scaling is set to False
+
+====================================================================================================
+                                        FEATURE ENGINEERING                                         
+====================================================================================================
+Data points abroad excluded.
+Data points on lakes excluded.
+NAs for 'crevasse' and 'street' imputed.
+Imputed value for ID 1682828: 0.4293331056833265
+New variable 'aspect_binary created.
+New variable 'street_binary created.
+New variable 'fd_risk created.
+Values for 'fd_risk' clipped.
+Values for 'planc7' clipped.
+Only every 10th point considered for analysis.
+Dropped the variables ['country', 'fd', 'glacier', 'id', 'lake', 'ski', 'snowshoe']
+Streets are excluded.
+Variable 'street_binary is dropped.
+
+====================================================================================================
+                                    TRAIN VALIDATION TEST SPLIT                                     
+====================================================================================================
+Sampling method is imbalanced
+Training set: 70.00%
+Validation set: 20.00%
+Test set: 10.00%
+foot in training set: 1.85%
+foot in validation set: 1.87%
+foot in test set: 1.66%
+
+====================================================================================================
+                                   MODELLING LOGISTIC REGRESSION                                    
+====================================================================================================
+LR (all features) done!
+LR (only primising features) done!
+Selected Features (RFE): Index(['forest', 'fd_maxv', 'aspect_binary'], dtype='object')
+LR (feature selection by RFE) done!
+LR (Permutations) done!
+
+====================================================================================================
+                                      MODELLING RANDOM FOREST                                       
+====================================================================================================
+RF (all features) done!
+Best Parameters: {'max_depth': 20, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+RF (only promising features + GridSearch) done!
+
+====================================================================================================
+                                    MODELLING GRADIENT BOOSTING                                     
+====================================================================================================
+Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+GB (All features) done!
+Best Parameters: {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 100}
+GB (only promising features + GridSearch) done!
+
+====================================================================================================
+                                EXPORT LR, RF AND GB RESULTS TO XLSX                                
+====================================================================================================
+Scores für 'foot' erfolgreich gespeichert.
+
+====================================================================================================
+                                    MODELLING GAM (VIA R-SCRIPT)                                    
+====================================================================================================
+Execute R-Script...
+R script executed successfully!
+GAM modelling done and saved to xlsx!
+
+====================================================================================================
+                                                END                                                 
+====================================================================================================
+Runtime: 1 hours, 15 minutes, 10 seconds
+
+Process finished with exit code 0

@@ -30,7 +30,7 @@ Python Version: 3.10.7
 R Version: 4.2.3  
 required libraries (Python) and packages (R) see [requirements.txt](https://github.com/skitourenguru/RoutesProperties/blob/main/code/requirements.txt)
 
-## Code Structure
+## Code
 The following code was used for model training and evaluation:  
 [main.py](https://github.com/skitourenguru/RoutesProperties/blob/main/code/main.py)  
 [my_functions.py](https://github.com/skitourenguru/RoutesProperties/blob/main/code/my_functions.py)  

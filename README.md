@@ -26,8 +26,8 @@ Master of Science in Applied Information and Data Science
 ¦- summaries (*summaries of winning models*)  
 
 ## Dependencies
-Python Version: 3.10.7
-R Version: 4.2.3
+Python Version: 3.10.7  
+R Version: 4.2.3  
 required libraries (Python) and packages (R) see [requirements.txt](https://github.com/skitourenguru/RoutesProperties/blob/main/code/requirements.txt)
 
 ## Code Structure

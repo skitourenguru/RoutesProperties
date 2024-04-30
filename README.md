@@ -17,17 +17,17 @@ Master of Science in Applied Information and Data Science
 ## Overview
 
 ## Structure
-¦- code (*reproducible Python and R code*)
-¦- logs (*log files for all runs*)
-¦- notebooks (*non-reproducible Jupyter notebooks for data analysis*)
-¦- paper (*master thesis*)
-¦- plots (*plots used for the master thesis*)
-¦- scores (*model scores on validation data*)
-¦- summaries (*summaries of winning models*)
+¦- code (*reproducible Python and R code*)  
+¦- logs (*log files for all runs*)  
+¦- notebooks (*non-reproducible Jupyter notebooks for data analysis*)  
+¦- paper (*master thesis*)  
+¦- plots (*plots used for the master thesis*)  
+¦- scores (*model scores on validation data*)  
+¦- summaries (*summaries of winning models*)  
 
 ## Dependencies
-Python Version
-R Version
+Python Version: 3.10.7
+R Version: 4.2.3
 required libraries (Python) and packages (R) see [requirements.txt](https://github.com/skitourenguru/RoutesProperties/blob/main/code/requirements.txt)
 
 ## Code Structure

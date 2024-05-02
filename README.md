@@ -18,12 +18,16 @@ Master of Science in Applied Information and Data Science
 
 ## Structure
 ¦- code (*reproducible Python and R code*)  
+¦- data (*download link for data*)  
 ¦- logs (*log files for all runs*)  
 ¦- notebooks (*non-reproducible Jupyter notebooks for data analysis*)  
 ¦- paper (*master thesis*)  
 ¦- plots (*plots used for the master thesis*)  
 ¦- scores (*model scores on validation data*)  
 ¦- summaries (*summaries of winning models*)  
+
+## Data
+The routes properties data files were too large for the GitHub repository, which is why a download link is stored in the 'data' folder.  
 
 ## Dependencies
 Python Version: 3.10.7  

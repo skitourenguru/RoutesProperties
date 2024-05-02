@@ -27,7 +27,9 @@ Master of Science in Applied Information and Data Science
 ¦- summaries (*summaries of winning models*)  
 
 ## Data
-The routes properties data files were too large for the GitHub repository, which is why a download link is stored in the 'data' folder.  
+The routes properties data files were too large for the GitHub repository, which is why a download link is stored in the 'data' folder. The following features are in this data set: 
+
+![Feature Table](https://github.com/skitourenguru/RoutesProperties/blob/main/plots/feature_table.jpg)
 
 ## Dependencies
 Python Version: 3.10.7  

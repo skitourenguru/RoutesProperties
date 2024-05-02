@@ -15,7 +15,7 @@ Master of Science in Applied Information and Data Science
 *Furrer, C., Schmudlach, G., & Rumo, M. (2024). Artifical intelligence in ski touring: Prediction of foot- and caution-sections for ski touring routes with a machine learning approach (Master thesis). Hochschule Luzern.*
 
 ## Overview
-Welcome to the repository **RoutesProperties**! This project is about the prediction of *caution*- and *foot*-sections for ski touring routes with a machine learning approach. Whether you're a scientist, a student or ski tourer, this repository is designed to solve the problem of these section classifications. Happy reading!  
+Welcome to the repository **RoutesProperties**! This project is about the prediction of *foot*- and *caution*-sections for ski touring routes with a machine learning approach. Whether you're a scientist, a student or ski tourer, this repository is designed to solve the problem of these section classifications. Happy reading!  
 
 ## Structure
 ¦- code (*reproducible Python and R code*)  

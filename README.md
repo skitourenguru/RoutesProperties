@@ -32,7 +32,7 @@ The routes properties data files were too large for the GitHub repository, which
 
 ![Feature Table](https://github.com/skitourenguru/RoutesProperties/blob/main/plots/feature_table.jpg)
 
-## Dependencies
+## Requirements  
 Python Version: 3.10.7  
 R Version: 4.2.3  
 required libraries (Python) and packages (R) see [requirements.txt](https://github.com/skitourenguru/RoutesProperties/blob/main/code/requirements.txt)

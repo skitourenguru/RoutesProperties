@@ -1,1 +1,5 @@
+-- .CSV-FILE --
 https://download.skitourenguru.com/data/BSRPD_V2.1.zip
+
+-- .GPKG-FILE --
+https://kdrive.infomaniak.com/app/share/265437/eab9f33a-8448-43ee-a6c8-55b445460aab
